@@ -1,0 +1,11 @@
+{
+  "name": "almighty-push",
+  "version": "1.0.0",
+  "description": "Shinra Tensei! A dramatic git commit & push workflow themed as Pain from Naruto.",
+  "author": {
+    "name": "familiarcow",
+    "url": "https://github.com/familiarcow"
+  },
+  "license": "MIT",
+  "keywords": ["git", "commit", "push", "naruto", "pain", "workflow"]
+}
