@@ -1,5 +1,14 @@
 # Almighty Push
 
+```
+█▀▄█                                                            █▄▀█
+▄██ ███ ███                                              ███ ███ ██▄
+ █ ███ ██ ● ██ █                                    █ ██ ● ██ ███ █
+  █ ███ ████▀▄██                                    ██▄▀████ ███ █
+   █▄▀██▄▄▄▄██▀▄█▀▄                              ▄▀█▄▀██▄▄▄▄██▀▄█
+       ███▀▀▄▄█▀▄██                              ██▄▀█▄▄▀▀███
+```
+
 A dramatic git commit & push workflow for Claude Code, themed as Pain from Naruto.
 
 ## What it does
@@ -11,7 +20,7 @@ A dramatic git commit & push workflow for Claude Code, themed as Pain from Narut
 - Smart file filtering (skips screenshots, build artifacts, .env files, credentials)
 - Clean rebase workflow (stash, pull --rebase, pop)
 - Rinnegan eye ASCII art displayed after every push
-- Dramatic Pain quotes with randomized endings ("ALMIGHTY PUSH." or "SHINRA TENSEI.")
+- Dramatic Pain quotes with randomized endings ("ALMIGHTY PUSH" or "SHINRA TENSEI")
 - Graceful failure handling (Pain acknowledges worthy adversaries)
 
 ## Usage
